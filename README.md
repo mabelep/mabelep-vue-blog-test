@@ -1,2 +1,33 @@
-# mabelep-vue-blog-test
-Aplicación de prueba de un tablón de POST simulando llamadas a un api
+# components-1
+
+This template should help get you started developing with Vue 3 in Vite.
+
+## Para ver una demo de la aplicación
+
+https://mabelep-vue-blog-test.netlify.app/
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vite.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
